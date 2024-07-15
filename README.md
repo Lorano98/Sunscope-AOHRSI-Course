@@ -19,3 +19,12 @@ In view of climate change, phasing out conventional energy sources is one of the
 
 ![image](https://github.com/user-attachments/assets/7571980f-13cd-4470-bece-e1396a60a2af)
 
+## DIY
+
+1. Get your own tif file depicting some solar panels.
+
+2. To make the running of the R code easier, you can follow this [tutorial](https://github.com/DaChro/ogh_summer_school_2020) to install the enivornment yourself or the docker image. Then you can just run the script with your own training data!
+
+3. In the second step you can download the QGIS Model deep_learning_post_processing from the visualization folder and apply it to your results from the R Script.
+
+4. If you want to train the model yourself you can go to the above link and follow the tutorial.
