@@ -28,3 +28,6 @@ In view of climate change, phasing out conventional energy sources is one of the
 3. In the second step you can download the QGIS Model deep_learning_post_processing from the visualization folder and apply it to your results from the R Script.
 
 4. If you want to train the model yourself you can go to the above link and follow the tutorial.
+
+## Sources
+- Building outline data: https://opendata.stadt-muenster.de/dataset/geb%C3%A4udeumrisse
