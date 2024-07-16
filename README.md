@@ -29,5 +29,13 @@ In view of climate change, phasing out conventional energy sources is one of the
 
 4. If you want to train the model yourself you can go to the above link and follow the tutorial.
 
-## Sources
-- Building outline data: https://opendata.stadt-muenster.de/dataset/geb%C3%A4udeumrisse
+## Data Sources
+- Trainingsdata:  
+  Maxar solar panel dataset HD  
+  https://blog.maxar.com/tech-and-tradecraft/2022/maxars-hd-technology-provides-measurable-improvements-in-machine-learning-applications
+- Predictiondata:  
+  Digital Orthophoto from Geoportal NRW  
+  https://www.geoportal.nrw
+- Building outline data:  
+  Stadt Münster  
+  https://opendata.stadt-muenster.de/dataset/geb%C3%A4udeumrisse
