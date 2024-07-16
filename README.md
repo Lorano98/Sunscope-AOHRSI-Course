@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/94a0aa81-9109-4294-8d94-6d7f8c421dd8" width="300" align="right">
 
-# Sunscope-AOHRSI-Course-
+# Sunscope-AOHRSI-Course
 
 A repository for detecting solar panels on rooftops on high resolution imagery in R and QGIS.
 
