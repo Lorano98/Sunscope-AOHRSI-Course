@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/94a0aa81-9109-4294-8d94-6d7f8c421dd8" width="300" align="right">
 
-# Sunscope-AOHRSI-Course-
+# Sunscope-AOHRSI-Course
 
 A repository for detecting solar panels on rooftops on high resolution imagery in R and QGIS.
 
@@ -28,3 +28,14 @@ In view of climate change, phasing out conventional energy sources is one of the
 3. In the second step you can download the QGIS Model deep_learning_post_processing from the visualization folder and apply it to your results from the R Script.
 
 4. If you want to train the model yourself you can go to the above link and follow the tutorial.
+
+## Data Sources
+- Trainingsdata:  
+  Maxar solar panel dataset HD  
+  https://blog.maxar.com/tech-and-tradecraft/2022/maxars-hd-technology-provides-measurable-improvements-in-machine-learning-applications
+- Predictiondata:  
+  Digital Orthophoto from Geoportal NRW  
+  https://www.geoportal.nrw
+- Building outline data:  
+  Stadt Münster  
+  https://opendata.stadt-muenster.de/dataset/geb%C3%A4udeumrisse
